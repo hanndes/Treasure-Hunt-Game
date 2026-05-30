@@ -1,0 +1,4 @@
+bkiraz, level1, 15
+bkiraz, level2, 25
+tgoksu, level1, 60
+tgoksu, level2, -5

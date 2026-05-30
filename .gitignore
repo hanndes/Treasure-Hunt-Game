@@ -1,0 +1,12 @@
+build/
+dist/
+nbproject/private/
+*.class
+*.jar
+.idea/
+*.iml
+.idea/
+*.iml
+nbproject/
+build.xml
+manifest.mf
